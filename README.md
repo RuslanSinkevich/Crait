@@ -1,10 +1,10 @@
 ## Создание шаблона по макету figma
 
-[ссылка]( https://vk.cc/clg1QO), 
+### Шаблон figma [ссылка]( https://vk.cc/clg1QO), 
 
-### Реализация главной страницы - [ссылка]( http://u1928479.isp.regruhosting.ru/crait/)
+#### Реализация главной страницы - [ссылка]( http://u1928479.isp.regruhosting.ru/crait/)
 
-### Реализация UI-Kit - [ссылка]( http://u1928479.isp.regruhosting.ru/crait/ui.html)
+#### Реализация UI-Kit - [ссылка]( http://u1928479.isp.regruhosting.ru/crait/ui.html)
 
 При вёрстке использовал два инструмента css фреймворк Tailwindcss и вспомогательный фреймворк alpine.js, также использовался Swiper.
 
